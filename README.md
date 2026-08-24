@@ -1,1 +1,1 @@
-# fa26-test-repo
+# Test repository - it works!
